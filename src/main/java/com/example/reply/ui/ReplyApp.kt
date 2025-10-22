@@ -22,8 +22,9 @@ import androidx.compose.ui.Modifier
 import androidx.lifecycle.viewmodel.compose.viewModel
 import com.example.reply.data.Email
 import com.example.reply.data.MailboxType
-import com.example.reply.ui.utils.ReplyNavigationType
 import com.example.reply.ui.utils.ReplyContentType
+import com.example.reply.ui.utils.ReplyNavigationType
+
 @Composable
 fun ReplyApp(
     windowSize: WindowWidthSizeClass,
