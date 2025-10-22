@@ -17,6 +17,7 @@ package com.example.reply.ui.utils
 
 /**
  * Different type of navigation supported by app depending on size and state.
+ * JESUS ESQUIPULAS QUINTINO LEYVA
  */
 enum class ReplyNavigationType {
     BOTTOM_NAVIGATION, NAVIGATION_RAIL, PERMANENT_NAVIGATION_DRAWER
